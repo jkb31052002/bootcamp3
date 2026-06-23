@@ -1,0 +1,11 @@
+git add .
+git commit -m "message you want to commit"
+git push
+
+python -m venv venv
+
+source venv/bin/activate
+
+deactivate
+
+
